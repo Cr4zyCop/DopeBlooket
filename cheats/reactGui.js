@@ -3690,12 +3690,12 @@
             })), React.createElement("div", {
                 id: styles.keys.credits
             }, React.createElement(AntiBen, {
-                onClick: () => window.open("https://github.com/05Konz/Blooket-Cheats", "_blank").focus(),
+                onClick: () => window.open("https://github.com/Cr4zyCop/DopeBlooket", "_blank").focus(),
                 style: {
                     cursor: "pointer"
                 },
-                href: "https://github.com/05Konz/Blooket-Cheats"
-            }, "GitHub - 05Konz")), React.createElement("div", {
+                href: "https://github.com/Cr4zyCop/DopeBlooket"
+            }, "GitHub - Cr4zyCop At Dope")), React.createElement("div", {
                 id: styles.keys.cheatList
             }, React.createElement(AntiBen, {
                 type: "span",
